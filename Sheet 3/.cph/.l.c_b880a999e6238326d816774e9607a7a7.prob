@@ -1,0 +1,1 @@
+{"name":"Local: l","url":"d:\\c programming\\vs\\cf\\Sheet 3\\l.c","tests":[{"id":1701082798914,"input":"2\n4\n1 6 3 7\n3\n3 1 2","output":"1 6 3 7 6 6 7 6 7 7 \n3 1 2 3 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c programming\\vs\\cf\\Sheet 3\\l.c","group":"local","local":true}

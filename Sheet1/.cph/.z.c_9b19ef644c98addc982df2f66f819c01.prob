@@ -1,0 +1,1 @@
+{"name":"Local: z","url":"d:\\c programming\\vs\\cf\\sheet1\\z.c","tests":[{"id":1695369218970,"input":"5 2 4 2\n","output":"YES\n"},{"id":1695369332207,"input":"3 2 5 4","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c programming\\vs\\cf\\sheet1\\z.c","group":"local","local":true}
