@@ -1,2 +1,2 @@
-# Codeforces Newcomer sheet solution
- CPC Assiut University Community Newcomers Training 
+# Codeforces Newcomer sheet solution by C .
+ ICPC Assiut University Community Newcomers Training 
